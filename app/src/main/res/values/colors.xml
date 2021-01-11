@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#d32f2f</color>
+    <color name="colorPrimaryLight">#ef5350</color>
+    <color name="colorAccent">#A5D6A7</color>
+
+    <color name="addColor">#388e3c</color>
+    <color name="iconcolorsDark">#1976d2</color>
+    <color name="iconcolors">#2196f3</color>
+
+    <color name="fragmentcolorsDark">#64b5f6</color>
+    <color name="fragmentcolors">#90caf9</color>
+
+</resources>
